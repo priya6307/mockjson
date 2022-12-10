@@ -1,13 +1,6 @@
 {
-  "posts":
-    {
-      "7680858812":"amit"
-    },
-  {
-  "7680858813":"priya"
-},
-{
-  "7680858814":"pranavi"
+  "GivenName" : "Mortimer",
+  "SurName" : "Smith",
+  "NameSuffixText" : "Sr",
+  "PreferredName" : "Morty",
 }
-   
-    }
